@@ -1,0 +1,16 @@
+body {
+  background-color: #040F16;
+}
+
+.title {
+  font-size: 5vw;
+}
+
+.content {
+  font-size: 15vw;
+}
+
+.card {
+  background-color: #eee;
+  color: #423E37;
+}
